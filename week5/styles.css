@@ -1,0 +1,78 @@
+*{
+    margin:0;
+    padding: 10px 20px;
+    box-sizing: border-box;
+}
+body {
+    background-color: azure;
+}
+main{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   height: 100vh;
+        
+}
+
+.sedans{
+    background-color: rgb(214, 89, 44);
+    padding: 10px;
+    text-align: left;
+   
+
+
+}
+.suv{
+    background-color: rgb(43, 164, 194) ;
+    padding: 10px;
+    text-align: left;
+    
+}
+.luxury{
+    background-color: rgb(8, 36, 31);
+    padding: 10px;
+    text-align: left;
+  
+    
+}
+p{
+    color: white;
+    font-size: 10px;
+    flex-wrap: wrap;
+    
+}
+h5 { color: white;
+    text-align: left;
+}
+p{
+    font-size: xx-small;
+}
+.button1{
+    color: rgb(214, 89, 44);
+    background-color: white;
+    border-radius: 20px;
+    padding: 5px 10px;
+    border: none;
+}
+.button2{
+    color: rgb(43, 164, 194);
+    background-color: white;
+    border-radius: 20px;
+    padding: 5px 10px;
+    border: none;
+}
+.button3{
+    color: rgb(8, 36, 31);
+    background-color: white;
+    border-radius: 20px;
+    padding: 5px 10px;
+    border: none;
+}
+.left{
+    float: left;
+    padding-right: 100px;
+}
+.btn{
+    padding-top: 50px;
+}
