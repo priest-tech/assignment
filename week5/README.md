@@ -40,7 +40,7 @@ Takes two numbers and returns the sum.
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@priest-tech(https://www.github.com/priest-tech)
 
 
 ## 🚀 About Me
